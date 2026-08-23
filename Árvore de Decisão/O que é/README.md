@@ -33,7 +33,7 @@ Uma AD pode ser denominada de dois tipos:
 
 ## Principais Algoritmos
 
-Ano | Algoritmo | Característica |
+| Ano | Algoritmo | Característica |
 |:-------:|:----------:|:----------:|
 1966 | CLS-Early | Algoritmo inicial para construção de árvores
 1976 | ID3 | Classificação baseada em teoria da informação
