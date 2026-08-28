@@ -25,7 +25,7 @@ Cada linha da tabela é uma experiência anterior.
 ### Tabela
 
 | Alternativo | Bar | Sex/Sáb | Fome | Clientes | Preço | Chuva | Reserva | Tipo | Tempo | Vai esperar? |
-|---|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|
 | Sim | Não | Não | Sim | Alguns | RRR | Não | Sim | Francês | 0-10 | Sim |
 | Sim | Não | Não | Sim | Cheio | R | Não | Não | Tailandês | 30-60 | Não |
 | Não | Sim | Não | Não | Alguns | R | Não | Não | Hambúrguer | 0-10 | Sim |
@@ -83,3 +83,5 @@ Ele dividiu os exemplos, mas não facilitou a classificação.
 > Uma boa divisão não é necessariamente a que cria mais grupos. É a que cria grupos mais folhas.
 
 # Próxima Página ➡️
+
+[Como gerar](https://github.com/anemadjarian/IA/tree/main/Resumos/%C3%81rvore%20de%20Decis%C3%A3o/Como%20gerar)
