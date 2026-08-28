@@ -4,7 +4,7 @@ Repositório dedicado a resumos, anotações e conteúdos da disciplina de Intel
 ## 🎓 Professora
 `Cristiane Neri Nobre`
 
-## 🗺️ Mapeamento do repositório
+## 🗺️ Mapeamento do Repositório
 
 | Pasta | Descrição |
 |:-------:|:----------:|
