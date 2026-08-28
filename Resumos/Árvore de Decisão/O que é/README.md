@@ -31,3 +31,5 @@ Uma AD pode ser denominada de dois tipos:
 📌 Um caminho completo seria: Se a renda é maior que R$ 3.000 e o nome está limpo, então o empréstimo é aprovado.
 
 # Próxima Página ➡️
+
+[Como gerar](https://github.com/anemadjarian/IA/tree/main/Resumos/%C3%81rvore%20de%20Decis%C3%A3o/Como%20gerar)

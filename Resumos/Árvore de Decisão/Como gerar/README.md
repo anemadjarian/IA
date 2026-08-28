@@ -84,4 +84,4 @@ Ele dividiu os exemplos, mas não facilitou a classificação.
 
 # Próxima Página ➡️
 
-[Como gerar](https://github.com/anemadjarian/IA/tree/main/Resumos/%C3%81rvore%20de%20Decis%C3%A3o/Como%20gerar)
+
