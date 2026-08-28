@@ -30,12 +30,4 @@ Uma AD pode ser denominada de dois tipos:
 
 📌 Um caminho completo seria: Se a renda é maior que R$ 3.000 e o nome está limpo, então o empréstimo é aprovado.
 
-
-## Principais Algoritmos
-
-| Ano | Algoritmo | Característica |
-|:-------:|:----------:|:----------:|
-1966 | CLS-Early | Algoritmo inicial para construção de árvores
-1976 | ID3 | Classificação baseada em teoria da informação
-1984 | CART | Árvores de classificação e regressão
-1993 | C4.5 |Evolução e melhoria do ID3
+# Próxima Página ➡️

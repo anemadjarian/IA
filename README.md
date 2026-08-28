@@ -4,14 +4,15 @@ Repositório dedicado a resumos, anotações e conteúdos da disciplina de Intel
 ## 🎓 Professora
 `Cristiane Neri Nobre`
 
-## 🗺️ Sumário
+## 🗺️ Mapeamento do repositório
 
-> Se você está aprendendo o conteúdo do zero, recomendo seguir essa ordem de estudos:
-
-| Índice | Conteúdo | Link |
-|:-------:|:----------:|:----------:|
-| 1 | Introdução | --- |
-| 2 | Árvore de Decisão | [AD](https://github.com/anemadjarian/IA/tree/main/%C3%81rvore%20de%20Decis%C3%A3o) |
+| Pasta | Descrição |
+|:-------:|:----------:|
+| Resumos | Resumo de todo o conteúdo da matéria |
+| Listas | Listas de atividades resolvidas |
+| Códigos | Explicação de cógidos em pyhton |
+| Revisão | Atividades a parte para revisar |
+| Provas | Provas antigas |
 
 📌 **Nota:** Este repositório está em constante desenvolvimento. Volte sempre para acompanhar as atualizações!
 
